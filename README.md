@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
+# How to Run this file Locally
+1. Download StarWars.
+2. Open your favourite terminal emulator.
+3. Navigate into the /StarWars/ directory, ie "cd Downloads/StarWars/".
+4. Run "ng serve".
+5. Once the code is compiled successfully, you can visit "http://localhost:4200" to see the app.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
